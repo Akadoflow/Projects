@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Docker-Projects",
+			"path": "../Docker-Projects"
+		},
+		{
+			"name": "Projects",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
